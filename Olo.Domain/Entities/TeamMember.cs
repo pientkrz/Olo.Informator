@@ -6,7 +6,6 @@
     {
         public int TeamMemberId { get; set; }
         public int PersonId { get; set; }
-
         public Person Person { get; set; }
     }
 }
